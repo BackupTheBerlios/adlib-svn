@@ -7,7 +7,7 @@
  *             script. Compilers should be able to return these types of attributes.
  */
 
-// Declaring that this file is a module.
+// src/std/compiler.d
 module std.compiler;
 
 // Defining these variables as constant, as they will never be touched by any other modules.
