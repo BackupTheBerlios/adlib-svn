@@ -1,1 +1,0 @@
-All source code, unless explicitly marked, is licensed under the license in license.txt
