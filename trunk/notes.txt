@@ -1,0 +1,10 @@
+adlib notes
+--------------
+- adlib should be compiler independant
+- we should avoid cross-linking
+- try not to make use of the GC
+
+
+conf script notes
+-------------
+- values for std/compiler.d will most likely have to be made by a configure script.
